@@ -1,4 +1,4 @@
-# 🛡️ Aegis — Encrypted Password Database (Rust)
+# 🛡️ Aegis - Encrypted Password Database
 
 Aegis is a **fast, secure, and cross-platform** password database utility written entirely in **Rust**. It offers both a minimal **CLI** for power users and a **beautiful, native GUI**.
 
