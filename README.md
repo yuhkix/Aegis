@@ -5,7 +5,6 @@ Aegis is a **fast, secure, and cross-platform** password database utility writte
 Leveraging modern, robust cryptography and compact binary storage, Aegis ensures your sensitive information remains **private, local, and secure**. Your passwords never leave your machine.
 
 ![Rust](https://img.shields.io/badge/language-Rust-orange.svg)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![UI](https://img.shields.io/badge/UI-egui-lightgrey.svg)
 ![Encryption](https://img.shields.io/badge/encryption-XChaCha20--Poly1305-green.svg)
 
