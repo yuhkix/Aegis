@@ -72,9 +72,9 @@ Aegis is built with the following outstanding Rust crates:
 
 ### 🧩 Roadmap
 
-Aegis is under active development. Planned features include:
+Aegis is under development. Planned features include:
 
-* Complete GUI editor & viewer functionality.
+* Complete GUI editor & viewer functionality. (webview inside rust)
 * Per-field encryption for maximum security isolation.
 * Cloud sync capability (optional, with strictly local encryption).
 * Encrypted JSON export/import functionality.
